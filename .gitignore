@@ -1,0 +1,9 @@
+.venv/
+**/.venv/
+.env
+**/.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+research_planning_agent/output/*
+!research_planning_agent/output/.gitkeep
